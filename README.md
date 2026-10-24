@@ -20,4 +20,4 @@ company checks every step, and nothing is accepted without the owner. Every step
 
 Start with the server, which is already done: [quake-watch-server](https://github.com/saphan-ai/quake-watch-server).
 
-Licence: [Apache-2.0](LICENSE).
+Licence: the code is [Apache-2.0](LICENSE); the guide and the build record are [CC BY 4.0](LICENSE-docs).
